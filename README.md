@@ -7,11 +7,10 @@ and then become suspicious when it works.
 
 ### Currently:
 
-- figuring stuff out
 - building things I probably didn't need to build
 - learning system design
 - fighting with DSA
-- opening documentation instead of admitting defeat
+- not admitting defeat
 
 ### Things I've touched:
 
