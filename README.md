@@ -1,6 +1,6 @@
 # welcome to the Prasoon situation. 
 
-> pretending this was planned.
+> organized collection of questionable decisions.
 
 I write code, occasionally understand it,
 and then become suspicious when it works.
