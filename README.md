@@ -9,8 +9,8 @@ and then become suspicious when it works.
 
 - building things I probably didn't need to build
 - learning system design
-- fighting with DSA
-- not admitting defeat
+- struggling with DSA
+- running on abnormal sleep schedule
 
 ### Things I've touched:
 
